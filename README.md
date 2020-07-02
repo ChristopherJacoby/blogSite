@@ -1,4 +1,4 @@
-# blogSite-MEN-STACK
+# blogSite
 
 Blog site using MongoDB, Express, NodeJS.<br>
 Ability to create, modify and delete posts that you created. Unable to modify posts from other users.<br>
